@@ -287,3 +287,19 @@ footer {
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
 @import "highlights";
 @import "svg-icons";
+
+
+.posts .project {
+  width:200px;
+  display: inline-block;
+  margin: 1em;
+}
+.posts .project > .thumb {
+  width:200px;
+  height: 120px;
+  background: #473800
+}
+
+.project h3 {
+  font-size: .85em;
+}
