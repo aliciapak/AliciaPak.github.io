@@ -4,7 +4,9 @@ title: contact
 permalink: /404.html
 ---
 
+[<img src="{{site.baseurl}}/images/IMG_1250.JPG" style=" width: 200px;"/>]({{site.baseurl}}/)
 
-[<img src="{{ site.baseurl }}/images/404.jpg" alt="Constructocat by https://github.com/jasoncostello" style="width: 400px;"/>]({{ site.baseurl }}/)
+email: [{{site.footer-links.email}}](mailto:{{site.footer-links.email}})
 
-[{{site.footer-links.email}}](mailto:{{site.footer-links.email}})
+instagram: [{{site.footer-links.instagram}}]
+ 

@@ -3,6 +3,7 @@ layout: page
 title: about
 permalink: /about/
 ---
+[<img src="{{site.baseurl}}/images/IMG_8689_Original 2.jpg" style=" width: 600px;"/>]({{site.baseurl}}/)
 
 Alicia Pak is a current student at the California Institute of the Arts pursuing a Bachelor in Fine Arts in dance with a digital arts media minor. She works as a performer, choreographer, collaborater, filmmaker, and digital media artist with over sixteen years of technical training and performance experience.
 
